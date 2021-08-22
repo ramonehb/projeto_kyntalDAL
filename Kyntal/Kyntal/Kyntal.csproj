@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72767638-DF0C-4541-A7A0-0896027F71F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kyntal</RootNamespace>
+    <AssemblyName>Kyntal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCliente.Designer.cs">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroUsuario.Designer.cs">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListagemCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListagemCliente.Designer.cs">
+      <DependentUpon>ListagemCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListagemPratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListagemPratos.Designer.cs">
+      <DependentUpon>ListagemPratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListagemUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListagemUsuario.Designer.cs">
+      <DependentUpon>ListagemUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyModule1.cs" />
+    <Compile Include="CadastroPratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroPratos.Designer.cs">
+      <DependentUpon>CadastroPratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListagemPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListagemPedido.Designer.cs">
+      <DependentUpon>ListagemPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosProntos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidosProntos.Designer.cs">
+      <DependentUpon>PedidosProntos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sessao.cs" />
+    <Compile Include="TelaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaInicial.Designer.cs">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CadastroCliente.resx">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroUsuario.resx">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListagemCliente.resx">
+      <DependentUpon>ListagemCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListagemPratos.resx">
+      <DependentUpon>ListagemPratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListagemUsuario.resx">
+      <DependentUpon>ListagemUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroPratos.resx">
+      <DependentUpon>CadastroPratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListagemPedido.resx">
+      <DependentUpon>ListagemPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosProntos.resx">
+      <DependentUpon>PedidosProntos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelaInicial.resx">
+      <DependentUpon>TelaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\82835722_216557342845853_1708299130037600256_n %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeusuario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c015-icon-02-usericon-data-3640556.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icones\accept_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icones\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icones\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icones\edit_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\KyntalDAL\KyntalDAL.csproj">
+      <Project>{196a784c-0573-4498-bbea-8aea68080e24}</Project>
+      <Name>KyntalDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KyntalAPI\KyntalAPI.csproj">
+      <Project>{65591274-d364-4b9e-b573-cb4539849cbf}</Project>
+      <Name>KyntalAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair-branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeSair.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeLogoff.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconeLogoff2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prato.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prato1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comida1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedido.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\89776257-back-arrow-icon-isolated-on-special-green-round-button-abstract-illustration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-button-computer-icons-back-home-s-blue-text-number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\89776257-back-arrow-icon-isolated-on-special-green-round-button-abstract-illustration1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-959373740-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mesa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mesaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pedido].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagemBranca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PedidoBranco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relogio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relogioBranco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relogioBranco1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

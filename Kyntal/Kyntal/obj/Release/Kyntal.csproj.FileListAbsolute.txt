@@ -1,0 +1,177 @@
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe.config
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.pdb
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.pdb
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroCliente.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroUsuario.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListandoCliente.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPratos.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemUsuario.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Login.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroPratos.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPedido.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.PedidosProntos.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Properties.Resources.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.TelaInicial.resources
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.GenerateResource.cache
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CopyComplete
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.pdb
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Cors.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.pdb
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll.config
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Optimization.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Mvc.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Razor.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\55119\Desktop\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe.config
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe.config
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.pdb
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Cors.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.pdb
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.pdb
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll.config
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Optimization.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Mvc.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Razor.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe.config
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroCliente.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroUsuario.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListandoCliente.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPratos.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemUsuario.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Login.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroPratos.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPedido.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.PedidosProntos.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Properties.Resources.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.TelaInicial.resources
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.GenerateResource.cache
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CopyComplete
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe
+C:\Users\55119\Desktop\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.pdb
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe.config
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.exe
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Kyntal.pdb
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Cors.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalDAL.pdb
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.pdb
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\KyntalAPI.dll.config
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Optimization.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Mvc.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.Cors.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\Newtonsoft.Json.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.Razor.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Optimization.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Mvc.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.Razor.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\bin\Release\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csprojAssemblyReference.cache
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe.config
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroCliente.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroUsuario.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListandoCliente.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPratos.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemUsuario.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Login.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.CadastroPratos.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.ListagemPedido.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.PedidosProntos.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.Properties.Resources.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.TelaInicial.resources
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.GenerateResource.cache
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.csproj.CopyComplete
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.exe
+C:\Users\55119\Documents\Humberto\Kyntal Projeto\Projeto Desktop Kyntal\Kyntal\Kyntal\obj\Release\Kyntal.pdb

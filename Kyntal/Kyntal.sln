@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyntal", "Kyntal\Kyntal.csproj", "{72767638-DF0C-4541-A7A0-0896027F71F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyntalDAL", "..\KyntalDAL\KyntalDAL.csproj", "{196A784C-0573-4498-BBEA-8AEA68080E24}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KyntalSetup", "KyntalSetup\KyntalSetup.vdproj", "{31ACF92A-4987-4761-9527-E415C8F6B225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyntalAPI", "KyntalAPI\KyntalAPI.csproj", "{65591274-D364-4B9E-B573-CB4539849CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72767638-DF0C-4541-A7A0-0896027F71F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72767638-DF0C-4541-A7A0-0896027F71F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72767638-DF0C-4541-A7A0-0896027F71F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72767638-DF0C-4541-A7A0-0896027F71F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196A784C-0573-4498-BBEA-8AEA68080E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196A784C-0573-4498-BBEA-8AEA68080E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196A784C-0573-4498-BBEA-8AEA68080E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196A784C-0573-4498-BBEA-8AEA68080E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ACF92A-4987-4761-9527-E415C8F6B225}.Debug|Any CPU.ActiveCfg = Debug
+		{31ACF92A-4987-4761-9527-E415C8F6B225}.Release|Any CPU.ActiveCfg = Release
+		{65591274-D364-4B9E-B573-CB4539849CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65591274-D364-4B9E-B573-CB4539849CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65591274-D364-4B9E-B573-CB4539849CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65591274-D364-4B9E-B573-CB4539849CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97F180E-AC7B-457E-8B60-9AC9D83C6054}
+	EndGlobalSection
+EndGlobal
